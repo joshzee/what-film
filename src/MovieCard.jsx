@@ -1,8 +1,6 @@
 import PlaceHolder from "./assets/placeholder.jpg";
 
 const MovieCard = ({ movie }) => {
-  // const imdbLink = "https://imdb.com/title/" + movie.imdbID;
-
   return (
     // <a href={imdbLink} target="_blank" rel="noreferrer">
     <div className="movie">
